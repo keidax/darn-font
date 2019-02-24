@@ -50,7 +50,7 @@ NameList: AGL For New Fonts
 DisplaySize: 14
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 17
+WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
@@ -1060,8 +1060,8 @@ BDFChar: 11 59 7 0 3 -1 6
 &.egA+<Wq"
 BDFChar: 12 60 7 1 6 0 7
 ";kNs5X6G7
-BDFChar: 13 61 7 1 5 2 6
-p](9op](9o
+BDFChar: 13 61 7 0 5 2 6
+HiO-Hp](9o
 BDFChar: 14 62 7 0 5 1 8
 &.f*Q";kNs
 BDFChar: 15 63 7 2 6 0 8
@@ -1084,8 +1084,8 @@ BDFChar: 23 71 7 0 6 0 8
 *$QLj9LOQ$BE/#4
 BDFChar: 24 72 7 0 6 0 8
 +sJ4!HpidHL]@DT
-BDFChar: 25 73 7 1 5 0 8
-3"QWD+<Wp7huE`W
+BDFChar: 25 73 7 0 6 0 8
+4pVE*&.fs,p](9o
 BDFChar: 26 74 7 0 6 0 8
 %KZ\7"9aO:Du]k<
 BDFChar: 27 75 7 0 6 0 8
@@ -1113,7 +1113,7 @@ BDFChar: 37 85 7 0 6 0 8
 BDFChar: 38 86 7 1 6 0 8
 6psG!Lle:FJ,fQL
 BDFChar: 39 87 7 1 6 0 8
-6i[2e!!#Cez6i[2e!!%fTzVuQet!!&qtzci=%G!!&YlzTE"rlz
+6psG!W2S(9TE"rl
 BDFChar: 40 88 7 0 6 0 8
 +sJ9L&26Y2L]@DT
 BDFChar: 41 89 7 2 6 0 8
@@ -1148,8 +1148,8 @@ BDFChar: 55 103 7 0 5 -3 6
 4@DSnLkp!]&E!Ng
 BDFChar: 56 104 7 0 5 0 8
 +<WX36puieL]@DT
-BDFChar: 57 105 7 1 4 0 9
-&.ehL+<Wp75i;VB
+BDFChar: 57 105 7 2 4 0 9
++<U["5X7SbJA;-b
 BDFChar: 58 106 7 0 5 -2 9
 "9\]A#RC\I&.fE2
 BDFChar: 59 107 7 0 5 0 8
