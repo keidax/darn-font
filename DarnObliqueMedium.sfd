@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1550984688
+ModificationTime: 1551030002
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -54,7 +54,7 @@ WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 98
+BeginChars: 65536 99
 
 StartChar: zero
 Encoding: 48 48 0
@@ -1032,6 +1032,14 @@ LayerCount: 2
 Fore
 Validated: 1
 EndChar
+
+StartChar: lambda
+Encoding: 955 955 98
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
 BitmapFont: 14 99 11 3 1
 BDFChar: 0 48 7 0 6 0 8
@@ -1230,5 +1238,7 @@ BDFChar: 96 128 14 0 0 0 0
 z
 BDFChar: 97 129 14 0 0 0 0
 z
+BDFChar: 98 955 7 0 5 0 8
+0F.pi#T+s\KE(uP
 EndBitmapFont
 EndSplineFont

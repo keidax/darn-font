@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1550881367
+ModificationTime: 1551029998
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,7 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeBmp
@@ -49,7 +48,7 @@ WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 98
+BeginChars: 65536 99
 
 StartChar: zero
 Encoding: 48 48 0
@@ -1027,6 +1026,14 @@ LayerCount: 2
 Fore
 Validated: 1
 EndChar
+
+StartChar: lambda
+Encoding: 955 955 98
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
 BitmapFont: 14 99 11 3 1
 BDFChar: 0 48 7 1 5 0 8
@@ -1225,5 +1232,7 @@ BDFChar: 96 128 14 0 0 0 0
 z
 BDFChar: 97 129 14 0 0 0 0
 z
+BDFChar: 98 955 7 1 6 0 8
+^`Xa20JH$gKE(uP
 EndBitmapFont
 EndSplineFont
