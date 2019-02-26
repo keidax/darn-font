@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1551029998
+ModificationTime: 1551145351
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeBmp
@@ -48,7 +49,7 @@ WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 99
+BeginChars: 65539 103
 
 StartChar: zero
 Encoding: 48 48 0
@@ -1034,8 +1035,40 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: guillemotleft
+Encoding: 171 171 99
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: guillemotright
+Encoding: 187 187 100
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni27E6
+Encoding: 10214 10214 101
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni27E7
+Encoding: 10215 10215 102
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 14 99 11 3 1
+BitmapFont: 14 104 11 3 1
 BDFChar: 0 48 7 1 5 0 8
 E/9m[W2RdnDu]k<
 BDFChar: 1 49 7 1 5 0 8
@@ -1234,5 +1267,13 @@ BDFChar: 97 129 14 0 0 0 0
 z
 BDFChar: 98 955 7 1 6 0 8
 ^`Xa20JH$gKE(uP
+BDFChar: 99 171 7 1 5 1 5
+-r?R5-ia5I
+BDFChar: 100 187 7 1 5 1 5
+TMR%5TE"rl
+BDFChar: 101 10214 7 1 5 -1 9
+pn4:QTV.sNTV2&[
+BDFChar: 102 10215 7 1 5 -1 9
+pa@O=-n$Jl-n+ij
 EndBitmapFont
 EndSplineFont

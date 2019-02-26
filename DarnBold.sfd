@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1551030563
+ModificationTime: 1551145785
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,7 +48,7 @@ WinInfo: 0 32 17
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 104
+BeginChars: 65537 108
 
 StartChar: zero
 Encoding: 48 48 0
@@ -1069,8 +1069,40 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: guillemotleft
+Encoding: 171 171 104
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: guillemotright
+Encoding: 187 187 105
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni27E6
+Encoding: 10214 10214 106
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni27E7
+Encoding: 10215 10215 107
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 14 104 11 3 1
+BitmapFont: 14 108 11 3 1
 BDFChar: 0 48 7 1 6 0 8
 Gg+Cer9VYOGQ7^D
 BDFChar: 1 49 7 1 6 0 8
@@ -1277,7 +1309,15 @@ BDFChar: 101 23 14 0 0 0 0
 z
 BDFChar: 102 24 14 0 0 0 0
 z
-BDFChar: 103 955 7 0 6 0 8
-E"Eil(d''U63$uc
+BDFChar: 103 955 7 1 6 0 8
+i#j]b0R-.4KE(uP
+BDFChar: 104 171 7 1 6 1 5
+1hb6L1]RLU
+BDFChar: 105 187 7 1 6 1 5
+YZNGYYQ+Y'
+BDFChar: 106 10214 7 1 6 -1 9
+r6Wg;d*U.dd*V[j
+BDFChar: 107 10215 7 1 6 -1 9
+r%'BM/1`>'/1g]!
 EndBitmapFont
 EndSplineFont
