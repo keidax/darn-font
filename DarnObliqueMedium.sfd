@@ -47,7 +47,7 @@ DEI: 91125
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: 14
+DisplaySize: 15
 AntiAlias: 1
 FitToEm: 0
 WinInfo: 0 32 8
@@ -1046,7 +1046,8 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 14 103 11 3 1
+BitmapFont: 15 104 12 3 1 FontForge
+Resolution: 100
 BDFChar: 0 48 7 0 6 0 8
 *$Q_'<+O(+Du]k<
 BDFChar: 1 49 7 0 4 0 8
