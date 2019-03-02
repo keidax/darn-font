@@ -49,7 +49,7 @@ WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65539 103
+BeginChars: 65539 100
 
 StartChar: zero
 Encoding: 48 48 0
@@ -1001,35 +1001,8 @@ Fore
 Validated: 1
 EndChar
 
-StartChar: uni007F
-Encoding: 127 127 95
-Width: 1000
-VWidth: 0
-LayerCount: 2
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0080
-Encoding: 128 128 96
-Width: 1000
-VWidth: 0
-LayerCount: 2
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0081
-Encoding: 129 129 97
-Width: 1000
-VWidth: 0
-LayerCount: 2
-Fore
-Validated: 1
-EndChar
-
 StartChar: lambda
-Encoding: 955 955 98
+Encoding: 955 955 95
 Width: 500
 VWidth: 0
 Flags: W
@@ -1037,7 +1010,7 @@ LayerCount: 2
 EndChar
 
 StartChar: guillemotleft
-Encoding: 171 171 99
+Encoding: 171 171 96
 Width: 500
 VWidth: 0
 Flags: W
@@ -1045,7 +1018,7 @@ LayerCount: 2
 EndChar
 
 StartChar: guillemotright
-Encoding: 187 187 100
+Encoding: 187 187 97
 Width: 500
 VWidth: 0
 Flags: W
@@ -1053,7 +1026,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni27E6
-Encoding: 10214 10214 101
+Encoding: 10214 10214 98
 Width: 500
 VWidth: 0
 Flags: W
@@ -1061,7 +1034,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni27E7
-Encoding: 10215 10215 102
+Encoding: 10215 10215 99
 Width: 500
 VWidth: 0
 Flags: W
@@ -1259,21 +1232,15 @@ BDFChar: 93 44 7 2 3 -2 1
 5X7Sb
 BDFChar: 94 45 7 2 5 4 4
 n,NFg
-BDFChar: 95 127 14 0 0 0 0
-z
-BDFChar: 96 128 14 0 0 0 0
-z
-BDFChar: 97 129 14 0 0 0 0
-z
-BDFChar: 98 955 7 1 6 0 8
+BDFChar: 95 955 7 1 6 0 8
 ^`Xa20JH$gKE(uP
-BDFChar: 99 171 7 1 5 1 5
+BDFChar: 96 171 7 1 5 1 5
 -r?R5-ia5I
-BDFChar: 100 187 7 1 5 1 5
+BDFChar: 97 187 7 1 5 1 5
 TMR%5TE"rl
-BDFChar: 101 10214 7 1 5 -1 9
+BDFChar: 98 10214 7 1 5 -1 9
 pn4:QTV.sNTV2&[
-BDFChar: 102 10215 7 1 5 -1 9
+BDFChar: 99 10215 7 1 5 -1 9
 pa@O=-n$Jl-n+ij
 EndBitmapFont
 EndSplineFont
