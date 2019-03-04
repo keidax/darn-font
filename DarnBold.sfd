@@ -1040,7 +1040,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 15 108 12 3 1 FontForge
+BitmapFont: 15 101 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 1 6 0 8
 Gg+Cer9VYOGQ7^D
@@ -1142,28 +1142,28 @@ BDFChar: 48 96 7 2 5 7 9
 ^gJhr
 BDFChar: 49 97 7 1 6 0 6
 GRP".bfkG7
-BDFChar: 50 98 7 1 6 0 8
-^qf`hbfn;Tp](9o
+BDFChar: 50 98 7 1 6 0 9
+^qdb\bfn;TbkM/<
 BDFChar: 51 99 7 1 6 0 6
 Gg*t=^s%$'
-BDFChar: 52 100 7 1 6 0 8
-$k.O-bfn;THiO-H
+BDFChar: 52 100 7 1 6 0 9
+$k*Plbfn;Tb^9Bj
 BDFChar: 53 101 7 1 6 0 6
 Gg+D0^s%$'
-BDFChar: 54 102 7 1 6 0 8
-4CDRl?smAM?iU0,
+BDFChar: 54 102 7 1 6 0 9
+4CDRl?smAM?sis7
 BDFChar: 55 103 7 1 6 -3 6
 I*BgYbfkGC%!VaP
-BDFChar: 56 104 7 1 6 0 8
-^qf`hbfn;TbQ%VC
+BDFChar: 56 104 7 1 6 0 9
+^qdb\bfn;Tbfg%e
 BDFChar: 57 105 7 2 5 0 9
 ?sium?smAM?uQ)G
 BDFChar: 58 106 7 1 5 -2 9
 (`364(`4),(`4+Z
-BDFChar: 59 107 7 1 6 0 8
-^qe1HnDNfgbQ%VC
-BDFChar: 60 108 7 2 5 0 8
-i*]r#?smAMDu]k<
+BDFChar: 59 107 7 1 6 0 9
+^qdb0f^RhgfZX<q
+BDFChar: 60 108 7 2 5 0 9
+i*]r#?smAM?uQ)G
 BDFChar: 61 109 7 1 6 0 6
 kkrr[eC;tJ
 BDFChar: 62 110 7 1 6 0 6
@@ -1178,8 +1178,8 @@ BDFChar: 66 114 7 1 6 0 6
 f^-ht^qd_c
 BDFChar: 67 115 7 1 6 0 6
 Gg*sJ%*Wqr
-BDFChar: 68 116 7 1 6 0 8
-?srb;?smAM49,?]
+BDFChar: 68 116 7 1 6 0 9
+?smC;?smAM?p"Dh
 BDFChar: 69 117 7 1 6 0 6
 bfn;TbfkG7
 BDFChar: 70 118 7 1 6 0 6

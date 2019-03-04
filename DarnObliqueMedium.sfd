@@ -1046,7 +1046,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 15 104 12 3 1 FontForge
+BitmapFont: 15 101 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 0 6 0 8
 *$Q_'<+O(+Du]k<
@@ -1148,28 +1148,28 @@ BDFChar: 48 96 7 3 5 7 9
 J3Y4W
 BDFChar: 49 97 7 0 5 0 6
 3!9A/Lkp9U
-BDFChar: 50 98 7 0 5 0 8
-+<WX36puien,NFg
+BDFChar: 50 98 7 0 5 0 9
++<VeO6psG!M!tBE
 BDFChar: 51 99 7 0 5 0 6
 3(-#^J;A.E
-BDFChar: 52 100 7 0 6 0 8
-!WkJP6puieGQ7^D
+BDFChar: 52 100 7 0 6 0 9
+!WiEc6psG!Lj/n"
 BDFChar: 53 101 7 0 5 0 6
 3(-/^J;A.E
-BDFChar: 54 102 7 1 6 0 8
-*$?Bn5X9jMJ,fQL
+BDFChar: 54 102 7 1 6 0 9
+*$?C!5X7SbJ:IV"
 BDFChar: 55 103 7 0 5 -3 6
 4@DSnLkp!]&E!Ng
-BDFChar: 56 104 7 0 5 0 8
-+<WX36puieL]@DT
+BDFChar: 56 104 7 0 5 0 9
++<VeO6psG!Lkl$2
 BDFChar: 57 105 7 2 4 0 9
 +<U["5X7SbJA;-b
 BDFChar: 58 106 7 0 5 -2 9
 "9\]A#RC\I&.fE2
-BDFChar: 59 107 7 0 5 0 8
-+<Vq#:gfrXO8o7\
-BDFChar: 60 108 7 2 4 0 8
-?m$RW5X9jM^]4?7
+BDFChar: 59 107 7 0 5 0 9
++<Vdp85N]eOH9GB
+BDFChar: 60 108 7 2 4 0 9
+?m$RW5X7SbJA;-b
 BDFChar: 61 109 7 0 5 0 6
 BN.r1W2QWp
 BDFChar: 62 110 7 0 5 0 6
@@ -1184,8 +1184,8 @@ BDFChar: 66 114 7 0 5 0 6
 3+PEBJ:N.M
 BDFChar: 67 115 7 0 5 0 6
 3(-"c#`*F"
-BDFChar: 68 116 7 1 4 0 8
-+<^/=5X9jMDu]k<
+BDFChar: 68 116 7 1 4 0 9
++<Vfr5X7SbJ8bJg
 BDFChar: 69 117 7 0 5 0 6
 6psFrLkp9U
 BDFChar: 70 118 7 1 6 0 6
