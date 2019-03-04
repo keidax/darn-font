@@ -1969,7 +1969,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 15 205 12 3 1 FontForge
+BitmapFont: 15 206 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 1 5 0 8
 E/9m[W2RdnDu]k<
@@ -2418,6 +2418,7 @@ BDFRefChar: 123 25 0 0 N
 BDFRefChar: 124 111 7 0 N
 BDFRefChar: 124 25 0 0 N
 BDFRefChar: 125 20 1 0 S
+BDFRefChar: 126 109 7 0 N
 BDFRefChar: 126 30 0 0 N
 BDFRefChar: 127 106 7 0 S
 BDFRefChar: 127 31 0 0 N
@@ -2458,6 +2459,7 @@ BDFRefChar: 145 108 7 -2 S
 BDFRefChar: 145 53 0 0 N
 BDFRefChar: 146 111 7 -2 S
 BDFRefChar: 146 53 0 0 N
+BDFRefChar: 147 109 7 -2 S
 BDFRefChar: 147 62 0 0 N
 BDFRefChar: 148 106 7 -2 S
 BDFRefChar: 148 63 0 0 N
