@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1551658721
+ModificationTime: 1551659427
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -49,7 +49,7 @@ WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65539 204
+BeginChars: 65539 205
 
 StartChar: zero
 Encoding: 48 48 0
@@ -1960,8 +1960,16 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: eth
+Encoding: 240 240 204
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 15 204 12 3 1 FontForge
+BitmapFont: 15 205 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 1 5 0 8
 E/9m[W2RdnDu]k<
@@ -2213,8 +2221,8 @@ BDFChar: 123 206 7 0 0 0 0
 z
 BDFChar: 124 207 7 4 4 0 0
 z
-BDFChar: 125 208 7 0 0 0 0
-z
+BDFChar: 125 208 7 1 4 4 4
+YQ+Y'
 BDFChar: 126 209 7 0 0 0 0
 z
 BDFChar: 127 210 7 0 0 0 0
@@ -2369,8 +2377,10 @@ BDFChar: 201 222 7 1 5 0 8
 J:R-FLktPNJ,fQL
 BDFChar: 202 254 7 1 5 -3 9
 J:N1>LkpkCM"#qFJ,fQL
-BDFChar: 203 223 7 0 5 0 8
-0M"`2:e3uB=9&=$
+BDFChar: 203 223 7 1 5 0 8
+@$$JCTTFtcYQ+Y'
+BDFChar: 204 240 7 1 5 0 9
+82*jGG_h03Li<=o
 BDFRefChar: 57 159 0 0 N
 BDFRefChar: 100 106 7 0 S
 BDFRefChar: 100 17 0 0 N
@@ -2407,7 +2417,7 @@ BDFRefChar: 123 108 7 0 S
 BDFRefChar: 123 25 0 0 N
 BDFRefChar: 124 111 7 0 N
 BDFRefChar: 124 25 0 0 N
-BDFRefChar: 125 20 0 0 N
+BDFRefChar: 125 20 1 0 S
 BDFRefChar: 126 30 0 0 N
 BDFRefChar: 127 106 7 0 S
 BDFRefChar: 127 31 0 0 N
