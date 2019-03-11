@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeBmp
@@ -1976,7 +1977,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 15 203 12 3 1 FontForge
+BitmapFont: 15 204 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 1 6 0 8
 Gg+Cer9VYOGQ7^D
@@ -2000,8 +2001,8 @@ BDFChar: 9 57 7 1 6 0 8
 Gg+CUHjgG-GQ7^D
 BDFChar: 10 58 7 3 4 1 6
 ^q]pM^q]pM
-BDFChar: 11 59 7 2 4 -1 6
-?sis7?smBX
+BDFChar: 11 59 7 2 4 -2 6
+?sis7!+92B^]4?7
 BDFChar: 12 60 7 1 6 0 8
 $lC[+^gJi5$ig8-
 BDFChar: 13 61 7 1 5 2 6
@@ -2066,8 +2067,8 @@ BDFChar: 42 90 7 1 6 0 8
 r!XDZ0OS;(qu?]s
 BDFChar: 43 91 7 2 5 -1 9
 nA)iT^qdb$^qfF>
-BDFChar: 44 92 7 1 6 0 8
-^qa>c0GkW8$ig8-
+BDFChar: 44 92 7 1 6 0 9
+^qa>c0JF=\$k*+9
 BDFChar: 45 93 7 2 5 -1 9
 n1ZOM0JG170JMtr
 BDFChar: 46 94 7 1 6 7 9
@@ -2130,8 +2131,8 @@ BDFChar: 74 122 7 1 6 0 6
 r!XDr@)2[?
 BDFChar: 75 123 7 2 6 -1 9
 3+-,J0]4W=?skqo
-BDFChar: 76 124 7 3 4 -1 9
-^qdb$^qdb$^qd_c
+BDFChar: 76 124 7 3 4 -1 10
+^qdb$^qdb$^qdb$
 BDFChar: 77 125 7 1 5 -1 9
 i%Qim?oVP%0JMDb
 BDFChar: 78 126 7 1 6 3 5
@@ -2142,8 +2143,8 @@ BDFChar: 80 32 7 4 4 0 0
 z
 BDFChar: 81 33 7 3 4 0 8
 ^qdb$^q]rc^]4?7
-BDFChar: 82 47 7 1 6 0 8
-$k*si0OS;(^]4?7
+BDFChar: 82 47 7 1 6 0 9
+$k*si0JHmB^q]pM
 BDFChar: 83 34 7 1 5 7 9
 f\"gV
 BDFChar: 84 35 7 0 6 0 8
