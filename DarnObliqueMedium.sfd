@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1552270913
+ModificationTime: 1552274241
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -54,7 +54,7 @@ WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65537 204
+BeginChars: 65537 227
 
 StartChar: zero
 Encoding: 48 48 0
@@ -1989,8 +1989,226 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: uni2010
+Encoding: 8208 8208 204
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2011
+Encoding: 8209 8209 205
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: figuredash
+Encoding: 8210 8210 206
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: endash
+Encoding: 8211 8211 207
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: emdash
+Encoding: 8212 8212 208
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2015
+Encoding: 8213 8213 209
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: quoteleft
+Encoding: 8216 8216 210
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quoteright
+Encoding: 8217 8217 211
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotesinglbase
+Encoding: 8218 8218 212
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotereversed
+Encoding: 8219 8219 213
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotedblleft
+Encoding: 8220 8220 214
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotedblright
+Encoding: 8221 8221 215
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotedblbase
+Encoding: 8222 8222 216
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni201F
+Encoding: 8223 8223 217
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: dagger
+Encoding: 8224 8224 218
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: daggerdbl
+Encoding: 8225 8225 219
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: bullet
+Encoding: 8226 8226 220
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: onedotenleader
+Encoding: 8228 8228 221
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: twodotenleader
+Encoding: 8229 8229 222
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ellipsis
+Encoding: 8230 8230 223
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: perthousand
+Encoding: 8240 8240 224
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni203B
+Encoding: 8251 8251 225
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni203D
+Encoding: 8253 8253 226
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 203 -1 N 1 0 0 1 0 0 2
+EndChar
 EndChars
-BitmapFont: 15 205 12 3 1 FontForge
+BitmapFont: 15 228 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 0 7 0 8
 %M9j2>%E;BDu]k<
@@ -2400,6 +2618,52 @@ BDFChar: 202 778 0 -2 0 9 11
 5bL@B
 BDFChar: 203 65536 7 -4 11 -4 12
 !WN0$!WiE)"9\i1#RC\A&.fBa+<VdL5X7S"J:N0#s*t(L
+BDFChar: 204 8208 7 0 0 0 0
+z
+BDFChar: 205 8209 7 0 0 0 0
+z
+BDFChar: 206 8210 7 1 5 4 4
+p](9o
+BDFChar: 207 8211 7 0 0 0 0
+z
+BDFChar: 208 8212 7 0 6 4 4
+rVuou
+BDFChar: 209 8213 7 0 0 0 0
+z
+BDFChar: 210 8216 7 4 6 6 9
++@(Im
+BDFChar: 211 8217 7 3 5 6 9
+?m%^b
+BDFChar: 212 8218 7 -3 -3 -8 -8
+z
+BDFChar: 213 8219 7 5 7 6 9
+?pK6m
+BDFChar: 214 8220 7 7 7 0 0
+z
+BDFChar: 215 8221 7 0 0 0 0
+z
+BDFChar: 216 8222 7 0 0 0 0
+z
+BDFChar: 217 8223 7 0 0 0 0
+z
+BDFChar: 218 8224 7 1 5 -1 8
+#RCud+<Wp7J:IV"
+BDFChar: 219 8225 7 1 4 2 2
+n,NFg
+BDFChar: 220 8226 7 3 5 3 6
+@,TtY
+BDFChar: 221 8228 7 0 0 0 0
+z
+BDFChar: 222 8229 7 1 1 0 0
+z
+BDFChar: 223 8230 7 0 0 0 0
+z
+BDFChar: 224 8240 7 1 6 0 8
++Aa=#@";(P:]LIq
+BDFChar: 225 8251 7 1 6 1 7
+#UCh*:lmpB
+BDFChar: 226 8253 7 0 0 0 0
+z
 BDFRefChar: 57 194 0 0 N
 BDFRefChar: 102 51 0 0 N
 BDFRefChar: 105 41 0 0 N
@@ -2516,5 +2780,27 @@ BDFRefChar: 193 73 0 0 N
 BDFRefChar: 196 119 -7 0 N
 BDFRefChar: 199 123 -7 0 N
 BDFRefChar: 201 108 -7 0 N
+BDFRefChar: 204 94 0 0 N
+BDFRefChar: 205 204 0 0 N
+BDFRefChar: 207 206 0 0 N
+BDFRefChar: 209 208 0 0 N
+BDFRefChar: 212 211 -3 -8 N
+BDFRefChar: 214 210 -1 0 N
+BDFRefChar: 214 210 2 0 N
+BDFRefChar: 215 211 -1 0 N
+BDFRefChar: 215 211 2 0 N
+BDFRefChar: 216 211 -1 -8 N
+BDFRefChar: 216 211 -4 -8 N
+BDFRefChar: 217 213 1 0 N
+BDFRefChar: 217 213 -2 0 N
+BDFRefChar: 219 218 0 0 N
+BDFRefChar: 221 79 0 0 N
+BDFRefChar: 222 79 2 0 N
+BDFRefChar: 222 79 -1 0 N
+BDFRefChar: 223 79 0 0 N
+BDFRefChar: 223 79 -2 0 N
+BDFRefChar: 223 79 2 0 N
+BDFRefChar: 226 15 0 0 N
+BDFRefChar: 226 81 0 0 N
 EndBitmapFont
 EndSplineFont
