@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1552274241
+ModificationTime: 1552353507
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -54,7 +54,7 @@ WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65537 227
+BeginChars: 65537 229
 
 StartChar: zero
 Encoding: 48 48 0
@@ -2207,8 +2207,24 @@ LayerCount: 2
 Fore
 Refer: 203 -1 N 1 0 0 1 0 0 2
 EndChar
+
+StartChar: guilsinglleft
+Encoding: 8249 8249 227
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: guilsinglright
+Encoding: 8250 8250 228
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 15 228 12 3 1 FontForge
+BitmapFont: 15 229 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 0 7 0 8
 %M9j2>%E;BDu]k<
@@ -2402,10 +2418,10 @@ BDFChar: 94 45 7 2 5 4 4
 n,NFg
 BDFChar: 95 955 7 -1 4 0 8
 (^'sE#T+s\KE(uP
-BDFChar: 96 171 7 1 5 1 5
--r?S0TE"rl
-BDFChar: 97 187 7 1 5 1 5
--n$K?TE"rl
+BDFChar: 96 171 7 5 5 1 1
+z
+BDFChar: 97 187 7 5 5 1 1
+z
 BDFChar: 98 10214 7 -1 8 -1 9
 #J^ZH$31b?'EBN]-id'D:]R-gp](9o
 BDFChar: 99 10215 7 -1 8 -1 9
@@ -2664,7 +2680,15 @@ BDFChar: 225 8251 7 1 6 1 7
 #UCh*:lmpB
 BDFChar: 226 8253 7 0 0 0 0
 z
+BDFChar: 227 8249 7 2 4 1 5
++@(I-J,fQL
+BDFChar: 228 8250 7 2 4 1 5
++<VdlJ,fQL
 BDFRefChar: 57 194 0 0 N
+BDFRefChar: 96 227 -1 0 N
+BDFRefChar: 96 227 1 0 N
+BDFRefChar: 97 228 -1 0 N
+BDFRefChar: 97 228 1 0 N
 BDFRefChar: 102 51 0 0 N
 BDFRefChar: 105 41 0 0 N
 BDFRefChar: 112 94 0 0 N

@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1551763987
+ModificationTime: 1552353497
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -49,7 +49,7 @@ WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 279
+BeginChars: 65536 281
 
 StartChar: zero
 Encoding: 48 48 0
@@ -2598,8 +2598,24 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: guilsinglleft
+Encoding: 8249 8249 279
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: guilsinglright
+Encoding: 8250 8250 280
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 15 280 12 3 1 FontForge
+BitmapFont: 15 281 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 1 5 0 8
 E/9m[W2RdnDu]k<
@@ -2793,10 +2809,10 @@ BDFChar: 94 45 7 2 5 4 4
 n,NFg
 BDFChar: 95 955 7 1 6 0 8
 ^`Xa20JH$gKE(uP
-BDFChar: 96 171 7 1 5 1 5
--r?R5-ia5I
-BDFChar: 97 187 7 1 5 1 5
-TMR%5TE"rl
+BDFChar: 96 171 7 5 5 1 1
+z
+BDFChar: 97 187 7 5 5 1 1
+z
 BDFChar: 98 10214 7 1 5 -1 9
 pn4:QTV.sNTV2&[
 BDFChar: 99 10215 7 1 5 -1 9
@@ -3159,7 +3175,15 @@ BDFChar: 277 8251 7 0 6 1 7
 &4@q0-q"UH
 BDFChar: 278 8253 7 3 3 0 0
 z
+BDFChar: 279 8249 7 2 4 1 5
++@(HB+92BA
+BDFChar: 280 8250 7 2 4 1 5
+J3Y5BJ,fQL
 BDFRefChar: 57 159 0 0 N
+BDFRefChar: 96 279 -1 0 N
+BDFRefChar: 96 279 1 0 N
+BDFRefChar: 97 280 -1 0 N
+BDFRefChar: 97 280 1 0 N
 BDFRefChar: 100 106 7 0 S
 BDFRefChar: 100 17 0 0 N
 BDFRefChar: 101 107 7 0 S
