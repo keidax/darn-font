@@ -1,0 +1,66 @@
+languages:
+- DFLT dflt
+- latn dflt
+
+ligatures:
+# ->
+- glyphs: hyphen greater
+  ignore:
+  - less hyphen' greater
+
+# -->
+- glyphs: hyphen hyphen greater
+  ignore:
+  - less hyphen' hyphen greater
+
+# =>
+- glyphs: equal greater
+  ignore:
+  - less equal' greater
+
+# ==>
+- glyphs: equal equal greater
+  ignore:
+  - less equal' equal greater
+
+# <==
+- glyphs: less equal equal
+  ignore:
+  - less' equal equal greater
+
+# <--
+- glyphs: less hyphen hyphen
+  ignore:
+  - less' hyphen hyphen greater
+
+# <-
+- glyphs: less hyphen
+  ignore:
+  - less' hyphen greater
+
+# <!--
+- glyphs: less exclam hyphen hyphen
+
+# <=>
+- glyphs: less equal greater
+
+# ==
+- glyphs: equal equal
+  ignore:
+  - less equal' equal
+  - equal' equal greater
+  - exclam equal' equal
+
+# ===
+- glyphs: equal equal equal
+
+# !=
+- glyphs: exclam equal
+  ignore:
+  - equal exclam' equal
+
+# !==
+- glyphs: exclam equal equal
+  ignore:
+  - equal exclam' equal equal
+  - exclam' equal equal exclam

@@ -4,7 +4,7 @@ FullName: Darn Medium
 FamilyName: Darn
 Weight: Medium
 Copyright: Copyright (c) 2019, Gabriel Holodak
-Version: 000.100
+Version: 000.101
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1552961781
+ModificationTime: 1552965294
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -53,7 +53,7 @@ WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 346
+BeginChars: 65550 360
 
 StartChar: zero
 Encoding: 48 48 0
@@ -3138,8 +3138,134 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: LIG
+Encoding: 65536 -1 346
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: hyphen_greater.liga
+Encoding: 65537 -1 347
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 94 45 N 1 0 0 1 0 0 2
+Refer: 14 62 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: hyphen_hyphen_greater.liga
+Encoding: 65538 -1 348
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 14 62 N 1 0 0 1 0 0 2
+Refer: 94 45 N 1 0 0 1 0 0 2
+Refer: 94 45 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: equal_greater.liga
+Encoding: 65539 -1 349
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 14 62 N 1 0 0 1 0 0 2
+Refer: 13 61 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: equal_equal_greater.liga
+Encoding: 65540 -1 350
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 14 62 N 1 0 0 1 0 0 2
+Refer: 13 61 N 1 0 0 1 0 0 2
+Refer: 13 61 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: less_equal_equal.liga
+Encoding: 65541 -1 351
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: less_hyphen_hyphen.liga
+Encoding: 65542 -1 352
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: less_hyphen.liga
+Encoding: 65543 -1 353
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: less_exclam_hyphen_hyphen.liga
+Encoding: 65544 -1 354
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: less_equal_greater.liga
+Encoding: 65545 -1 355
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: equal_equal.liga
+Encoding: 65546 -1 356
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: equal_equal_equal.liga
+Encoding: 65547 -1 357
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: exclam_equal.liga
+Encoding: 65548 -1 358
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: exclam_equal_equal.liga
+Encoding: 65549 -1 359
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 15 347 12 3 1 FontForge
+BitmapFont: 15 360 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 1 5 0 8
 E/9m[W2RdnDu]k<
@@ -3833,6 +3959,34 @@ BDFChar: 344 11816 7 0 0 0 0
 z
 BDFChar: 345 11817 7 0 0 0 0
 z
+BDFChar: 346 65536 7 0 0 0 0
+z
+BDFChar: 347 65537 7 -1 4 4 4
+qu?]s
+BDFChar: 348 65538 7 -8 4 4 4
+iV3BQ
+BDFChar: 349 65539 7 -1 2 2 6
+n,NFgn,NFg
+BDFChar: 350 65540 7 -8 2 2 6
+_;G:nz_;G:n
+BDFChar: 351 65541 7 -10 0 2 6
+n6c4rzn6c4r
+BDFChar: 352 65542 7 -12 1 4 4
+rYtn<
+BDFChar: 353 65543 7 -5 1 4 4
+rVuou
+BDFChar: 354 65544 7 -19 1 4 4
+r-UI(
+BDFChar: 355 65545 7 -10 2 2 6
+n9=p5zn9=p5
+BDFChar: 356 65546 7 -1 0 2 6
+^]4?7^]4?7
+BDFChar: 357 65547 7 -13 5 1 7
+rV,4Mz!<)ZMz!!)ulhuE`W
+BDFChar: 358 65548 7 -5 1 0 8
+!X&o;&0MBHJ,fQL
+BDFChar: 359 65549 7 -13 5 0 8
+!'gP_pYZ%%!!*'"s7bFS!!!9)!<)ZM&-)\1
 BDFRefChar: 57 159 0 0 N
 BDFRefChar: 96 279 -1 0 N
 BDFRefChar: 96 279 1 0 N
@@ -4151,5 +4305,34 @@ BDFRefChar: 344 89 2 0 N
 BDFRefChar: 344 89 -1 0 N
 BDFRefChar: 345 90 2 0 N
 BDFRefChar: 345 90 -1 0 N
+BDFRefChar: 347 14 0 0 N
+BDFRefChar: 347 94 -7 0 N
+BDFRefChar: 348 94 -7 0 N
+BDFRefChar: 348 94 -14 0 N
+BDFRefChar: 348 14 0 0 N
+BDFRefChar: 349 13 -7 0 S
+BDFRefChar: 349 14 0 0 N
+BDFRefChar: 350 13 -7 0 N
+BDFRefChar: 350 13 -14 0 N
+BDFRefChar: 350 14 0 0 N
+BDFRefChar: 351 13 0 0 N
+BDFRefChar: 351 13 -7 0 N
+BDFRefChar: 351 12 -14 0 N
+BDFRefChar: 352 94 0 0 N
+BDFRefChar: 352 94 -7 0 N
+BDFRefChar: 352 12 -14 0 N
+BDFRefChar: 353 94 0 0 N
+BDFRefChar: 353 12 -7 0 S
+BDFRefChar: 354 81 -15 0 S
+BDFRefChar: 354 94 0 0 N
+BDFRefChar: 354 94 -7 0 N
+BDFRefChar: 354 12 -21 0 N
+BDFRefChar: 355 14 0 0 N
+BDFRefChar: 355 13 -7 0 N
+BDFRefChar: 355 12 -14 0 N
+BDFRefChar: 356 13 0 0 N
+BDFRefChar: 356 13 -7 0 N
+BDFRefChar: 358 13 0 0 N
+BDFRefChar: 358 13 -7 0 N
 EndBitmapFont
 EndSplineFont
