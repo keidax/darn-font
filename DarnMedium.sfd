@@ -3,9 +3,8 @@ FontName: DarnMedium
 FullName: Darn Medium
 FamilyName: Darn
 Weight: Medium
-Copyright: Copyright (c) 2019, gabe
-UComments: "2019-2-21: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Copyright: Copyright (c) 2019, Gabriel Holodak
+Version: 000.100
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,12 +21,17 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1552435028
+ModificationTime: 1552961781
+PfmFamily: 17
+TTFWeight: 500
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 90
+OS2TypoLinegap: 0
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
@@ -3135,7 +3139,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 15 346 12 3 1 FontForge
+BitmapFont: 15 347 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 1 5 0 8
 E/9m[W2RdnDu]k<

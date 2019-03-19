@@ -3,9 +3,8 @@ FontName: DarnBold
 FullName: Darn Bold
 FamilyName: Darn
 Weight: Bold
-Copyright: Copyright (c) 2019, gabe
-UComments: "2019-2-21: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Copyright: Copyright (c) 2019, Gabriel Holodak
+Version: 000.100
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -16,18 +15,23 @@ LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
 XUID: [1021 404 738548048 11499826]
-StyleMap: 0x0000
+StyleMap: 0x0020
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1552436051
+ModificationTime: 1552961780
+PfmFamily: 17
+TTFWeight: 700
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 90
+OS2TypoLinegap: 0
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
@@ -2940,7 +2944,7 @@ Refer: 261 10272 N 1 0 0 1 0 0 2
 Refer: 245 10256 N 1 0 0 1 0 0 2
 EndChar
 EndChars
-BitmapFont: 15 293 12 3 1 FontForge
+BitmapFont: 15 294 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 1 6 0 8
 Gg+Cer9VYOGQ7^D
@@ -3388,8 +3392,8 @@ BDFChar: 221 8229 7 0 0 0 0
 z
 BDFChar: 222 8230 7 1 6 0 1
 eC4Hu
-BDFChar: 223 8240 7 0 6 0 8
-+E/S3&0Oq9'EA+5
+BDFChar: 223 8240 7 1 6 0 8
+5i>0E+@)lQ-ia5I
 BDFChar: 224 8251 7 1 6 1 7
 0[+dKGg%iA
 BDFChar: 225 8253 7 1 6 5 8
