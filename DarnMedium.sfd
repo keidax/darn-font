@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1552965294
+ModificationTime: 1553920807
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -53,7 +53,7 @@ WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65550 360
+BeginChars: 65550 370
 
 StartChar: zero
 Encoding: 48 48 0
@@ -3264,8 +3264,88 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: uni2B61
+Encoding: 11105 11105 360
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2B63
+Encoding: 11107 11107 361
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2B81
+Encoding: 11137 11137 362
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2B83
+Encoding: 11139 11139 363
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2713
+Encoding: 10003 10003 364
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2714
+Encoding: 10004 10004 365
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2715
+Encoding: 10005 10005 366
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2716
+Encoding: 10006 10006 367
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2717
+Encoding: 10007 10007 368
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2718
+Encoding: 10008 10008 369
+Width: 466
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 15 360 12 3 1 FontForge
+BitmapFont: 15 374 12 3 1 FontForge
 Resolution: 100
 BDFChar: 0 48 7 1 5 0 8
 E/9m[W2RdnDu]k<
@@ -3987,6 +4067,26 @@ BDFChar: 358 65548 7 -5 1 0 8
 !X&o;&0MBHJ,fQL
 BDFChar: 359 65549 7 -13 5 0 8
 !'gP_pYZ%%!!*'"s7bFS!!!9)!<)ZM&-)\1
+BDFChar: 360 11105 7 1 5 0 9
++E7)u+<VdL+<UXa
+BDFChar: 361 11107 7 1 5 0 9
++<VdL+<Vg%E$,,\
+BDFChar: 362 11137 7 3 3 2 2
+z
+BDFChar: 363 11139 7 0 0 0 0
+z
+BDFChar: 364 10003 7 0 6 0 8
+!WiK-#RHMg+92BA
+BDFChar: 365 10004 7 0 6 0 8
+!X8c9#aitX+92BA
+BDFChar: 366 10005 7 6 6 0 0
+z
+BDFChar: 367 10006 7 0 6 1 7
+7.,F^I-sB&
+BDFChar: 368 10007 7 1 6 0 8
+"@u?3?r2r@J,fQL
+BDFChar: 369 10008 7 1 6 0 8
+"H:uP?uXbSJ,fQL
 BDFRefChar: 57 159 0 0 N
 BDFRefChar: 96 279 -1 0 N
 BDFRefChar: 96 279 1 0 N
@@ -4334,5 +4434,10 @@ BDFRefChar: 356 13 0 0 N
 BDFRefChar: 356 13 -7 0 N
 BDFRefChar: 358 13 0 0 N
 BDFRefChar: 358 13 -7 0 N
+BDFRefChar: 362 361 2 0 N
+BDFRefChar: 362 360 -1 0 N
+BDFRefChar: 363 361 -1 0 N
+BDFRefChar: 363 360 2 0 N
+BDFRefChar: 366 197 0 0 N
 EndBitmapFont
 EndSplineFont
