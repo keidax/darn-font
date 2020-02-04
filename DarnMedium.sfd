@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1550803718
-ModificationTime: 1553920807
+ModificationTime: 1555130262
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -53,7 +53,7 @@ WinInfo: 0 32 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65550 370
+BeginChars: 65551 372
 
 StartChar: zero
 Encoding: 48 48 0
@@ -3344,6 +3344,22 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: uni26A0
+Encoding: 9888 9888 370
+Width: 933
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni274C
+Encoding: 10060 10060 371
+Width: 933
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
 BitmapFont: 15 374 12 3 1 FontForge
 Resolution: 100
@@ -4087,6 +4103,10 @@ BDFChar: 368 10007 7 1 6 0 8
 "@u?3?r2r@J,fQL
 BDFChar: 369 10008 7 1 6 0 8
 "H:uP?uXbSJ,fQL
+BDFChar: 370 9888 14 2 12 -1 10
+"98Q)$31D5&HEOG,_..j5X7_&J0=mM
+BDFChar: 371 10060 14 1 13 -2 10
+5S2j5E,[ep*P`29#659b*PaYmE,a_p5S*nq
 BDFRefChar: 57 159 0 0 N
 BDFRefChar: 96 279 -1 0 N
 BDFRefChar: 96 279 1 0 N
