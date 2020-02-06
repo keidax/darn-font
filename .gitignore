@@ -1,5 +1,4 @@
 # Fontforge backups
 *.sfd-[0-9][0-9]
 # Generated font files
-*.bdf
 *.ttf
