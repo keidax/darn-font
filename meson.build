@@ -13,8 +13,7 @@ sizes = ['7x15', '6x13']
 ttfs = []
 
 foreach size : sizes
-  height = size.split('x')[1]
-  name = 'DarnMedium' + '-' + height
+  name = 'DarnMedium' + '-' + size
   source_dir = 'src/' + size
   ttfs += custom_target(name,
     input: source_dir + '/' + name + '.bdf',
