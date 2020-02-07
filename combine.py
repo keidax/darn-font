@@ -15,8 +15,18 @@ fonts = []
 
 for index in range(1, len(sys.argv) - 1):
     fonts.append(TTFont(sys.argv[index], lazy=False))
-    assert fonts[0].getGlyphOrder() == fonts[-1].getGlyphOrder(), \
-        "all fonts must have the same glyph order"
+    if fonts[0].getGlyphOrder() != fonts[-1].getGlyphOrder():
+        glyphs1 = fonts[0].getGlyphOrder()
+        glyphs2 = fonts[-1].getGlyphOrder()
+
+        missing = [glyph for glyph in glyphs1 if glyph not in glyphs2]
+        extra = [glyph for glyph in glyphs2 if glyph not in glyphs1]
+        print("all fonts must have the same glyph order!")
+        print("missing from {}:".format(sys.argv[index]))
+        print(missing)
+        print("extra from {}:".format(sys.argv[index]))
+        print(extra)
+        sys.exit(1)
 
 out_font = TTFont()
 out_font.setGlyphOrder(fonts[0].getGlyphOrder())
