@@ -9,15 +9,17 @@ ligatures_feature = custom_target('ligatures',
 
 bdf2ttf = find_program('bdf2ttf')
 
-sizes = ['7x15', '6x13', '9x19']
-ttfs = []
+source_files = [
+  'src/9x19/DarnMedium-9x19.bdf',
+  'src/9x19/DarnBold-9x19.bdf',
+]
 
-foreach size : sizes
-  name = 'DarnMedium' + '-' + size
-  source_dir = 'src/' + size
-  custom_target(name,
-    input: source_dir + '/' + name + '.bdf',
-    output: name + '.ttf',
+foreach source_file : source_files
+  output_file = source_file.split('/')[2].replace('.bdf', '.ttf')
+
+  custom_target(output_file,
+    input: source_file,
+    output: output_file,
     command: [bdf2ttf, '@INPUT@', '--feature-file', ligatures_feature, '-o', '@OUTPUT@'],
     build_by_default: true,
   )
