@@ -13,6 +13,7 @@ source_files = [
   'src/9x19/DarnMedium-9x19.bdf',
   'src/9x19/DarnBold-9x19.bdf',
   'src/18x38/DarnMedium-18x38.bdf',
+  'src/18x38/DarnBold-18x38.bdf',
 ]
 
 foreach source_file : source_files
